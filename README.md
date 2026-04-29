@@ -70,7 +70,7 @@ This dataset was chosen because it simulates a real retail business scenario, al
 ## Technologies
 
 * **Microsoft Excel**
-* Excel Functions: `VLOOKUP`, `XLOOKUP`, `SUM`, 'Condicional Formating'
+* Excel Functions: `VLOOKUP`, `XLOOKUP`, `SUM`, `Condicional Formating`
 * **Pivot Tables**
 * Data visualization (charts and dashboard design)
 
