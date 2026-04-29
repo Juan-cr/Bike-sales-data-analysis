@@ -1,7 +1,5 @@
 # Bike Sales Data Analysis (Excel Project)
 
-## Project Title
-
 **Bike Sales Data Analysis**
 This project analyzes a bike sales dataset using Microsoft Excel to identify customer purchasing behavior, sales trends, and underperforming markets. The goal is to simulate real-world business decision-making by transforming raw data into actionable insights.
 
