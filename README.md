@@ -70,9 +70,10 @@ Examples to include:
 * Sales by age group and gender
 * KPI summary section
 <img width="1196" height="782" alt="image" src="https://github.com/user-attachments/assets/228a8bfd-21ca-4628-ad1b-cd9a37950c20" />
+<img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/14147e91-765d-4f36-8129-3e46fd54ef40" />
+
 <img width="675" height="123" alt="image" src="https://github.com/user-attachments/assets/6c662658-090a-4182-80ed-b137972db1e9" />
 <img width="641" height="717" alt="image" src="https://github.com/user-attachments/assets/bd18131e-2f2f-45c5-87b8-002b51cedea2" />
-<img width="311" height="100" alt="image" src="https://github.com/user-attachments/assets/14147e91-765d-4f36-8129-3e46fd54ef40" />
 
 ---
 
